@@ -1,0 +1,308 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5" />
+<title>聯合知識庫</title>
+<link href="/images/newdata/css_2007/css.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript1.2" src="/images/newdata/js_2007/common.js"></script>
+</head>
+<body onload="MM_preloadImages('/images/newdata/images_2007/icon_01s.gif','/images/newdata/images_2007/icon_02s.gif','/images/newdata/images_2007/icon_03s.gif','/images/newdata/images_2007/top_4s.gif','/images/newdata/images_2007/top_5s.gif','/images/newdata/images_2007/top_6s.gif','/images/newdata/images_2007/top_7s.gif','/images/newdata/images_2007/top_8s.gif')">
+
+
+<table align="center" width="996" height="78" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="250" align="left" background="/images/newdata/images_2007/top_2.gif"><a href="/ndapp/Index"><img src="/images/newdata/images_2007/logo_fix.gif" height="71" border="0" /></a></td>
+    	<td align="right" valign="top" background="/images/newdata/images_2007/top_2.gif">
+    		<table height="71" border="0" cellpadding="0" cellspacing="0">
+      			<tr><td align="right" class="text_12p_01"></td></tr>
+	      		<tr>
+		        	<td align="right" valign="bottom" background="/images/newdata/images_2007/top_2.gif">
+	        			
+<script type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<table border="0" align="right" cellpadding="0" cellspacing="0">
+	<tr height="13"><td></td></tr>
+	<tr background="/images/newdata/images_2007/top_2.gif">
+	 	<td><a href="http://0-udndata.com.millennium.lib.ntust.edu.tw/faq/fulltext.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','/images/newdata/images_2007/icon_02s.gif',1)" target="blank"><img src="/images/newdata/images_2007/icon_02.gif" name="Image7" border="0" id="Image7" /></a></td>
+		<!--
+		<td><a href="http://cs.udndata.com/public/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','/images/newdata/images_2007/icon_03s.gif',1)" target="blank"><img src="/images/newdata/images_2007/icon_03.gif" name="Image8" border="0" id="Image8" /></a></td>
+		-->
+		<td><a href="/ndapp/Index" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','/images/newdata/images_2007/top_4s.gif',1)" target="_parent"><img src="/images/newdata/images_2007/top_4.gif" name="Image9" width="78" height="38" border="0" id="Image9" /></a></td>
+		<td><a href="/ndapp/specialtopic/StIndex" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','/images/newdata/images_2007/top_5s.gif',1)" target="_parent"><img src="/images/newdata/images_2007/top_5.gif" name="Image10" width="78" height="38" border="0" id="Image10" /></a></td>
+			
+		<td><a href="/ndapp/autofolder/AfIndex" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','/images/newdata/images_2007/top_7s.gif',1)" target="_blank"><img src="/images/newdata/images_2007/top_7.gif" name="Image12" width="104" height="38" border="0" id="Image12" /></a></td>		
+		
+		<td><!-- a href="http://cs.udndata.com/library2/index.php" ... --><a href="/library/fullpage/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','/images/newdata/images_2007/top_1s.gif',1)" target="_parent"><img src="/images/newdata/images_2007/top_1.gif" name="Image1" width="120" height="38" border="0" id="Image1" /></a></td>
+		
+		<td><a href="/image" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','/images/newdata/images_2007/top_8s.gif',1)" target="_parent"><img src="/images/newdata/images_2007/top_8.gif" name="Image13" width="75" height="38" border="0" id="Image13" /></a></td>
+	</tr>
+</table>
+	
+	        		</td>
+	      		</tr>
+    		</table>
+    	</td>
+  	</tr>
+  	<tr><td height="7" colspan="2" background="/images/newdata/images_2007/top_9.gif"></td></tr>
+</table>
+
+<table width="996" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+    	<td height="25" valign="bottom" background="/images/newdata/images_2007/data_04bg.gif">
+    		
+<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+  		<td width="40%" height="20" align="left" valign="bottom" class="small"><img src="/images/newdata/images_2007/arrow_red.gif" width="9" height="9" /> <a href="/ndapp/Index">首頁</a> | <a href="/ndapp/Index?cp=udn">全文報紙資料庫首頁</a> | <a href="/ndapp/Searchdec2007?SearchString=%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper&select=1&sharepage=50&kind=2&page=6&udndbid=udnfree&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=#251">標題頁</a> | 內文頁 </td>
+        <td align="right" class="small">至 <span class="small_red">2015/01/17</span> 全部聯合知識庫庫藏資料共計 <span class="small_red">1197萬</span> 筆資料 <a href="javascript:MM_openBrWindowx('/ndapp/Detail','','scrollbars=yes,resizable=yes,width=360,height=330')"><img src="/images/gobut2.gif" width="26" height="12" border="0" /></a> 庫藏圖片共計 <span class="small_red">700萬</span> 張 <span class="small_red"> 2992</span>個專卷</td>
+    </tr>
+</table>
+
+    	</td>
+  	</tr>
+</table>
+<table width="996" border="0" align="center" cellpadding="0" cellspacing="9" bgcolor="#E3F1FD">
+	<tbody>
+    <tr>
+      	<td width="726" valign="top">
+      		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        		<tr>
+          			<td><img src="/images/newdata/images_2007/form_x01.gif" width="726" height="9" /></td>
+        		</tr>
+      		</table>
+          	<table width="100%" border="0" cellpadding="10" cellspacing="0">
+            	<tr>
+              		<td align="left" valign="top" background="/images/newdata/images_2007/form_x02.gif">
+              			<table width="98%" border="0" align="center" cellpadding="2" cellspacing="5">
+                			<tbody>
+                  			<tr bgcolor="#f2f2f2">
+                    			<td align="right">                     
+									<img height="18" src="/images/newdata/images_2007/mail.gif" width="19" align="absmiddle" />
+									<a class="story_function" href="/ndapp/FwdArticle?id=5922826&udndbid=udnfree&searchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D" target="_blank">轉寄</a> 
+									<img height="18" src="/images/newdata/images_2007/print.gif" width="19" align="absmiddle" />
+									<a class="story_function" href="javascript:openWindow('/ndapp/Print?id=5922826&udndbid=udnfree&date=2011-07-06','check','scrollbars,resizable=yes,width=640,height=480')">友善列印</a>
+								</td>
+                  			</tr>
+                			</tbody>
+              			</table>
+              			<table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+              				
+              			
+                  			<tr>
+                    			<td><span class="story_title">PMI指數將走揚<br /></span>
+                    				<span class="story_title">陸股 升機勃勃</span><br />
+				                      <span class="story_sub_title"></span>
+				                </td>
+                  			</tr>
+                  			<tr>
+                    			<td background="/images/newdata/images_2007/line_blue.gif"><img src="/images/newdata/images_2007/line_blue.gif" width="2" height="11" /></td>
+                  			</tr>
+                  			<tr>
+                    			<td class="story_author">【記者曹佳琪╱台北報導】</td>
+                  			</tr>
+                		</table>
+                  		<table width="98%" border="0" align="center" cellpadding="5" cellspacing="5">
+                    		<tr>
+                      			<td align="left" class="story"><p>中國6月採購經理人指數（PMI）來到50.9%，為28個月新低，PMI製造業指數與陸股表現呈正相關，市場預期7月PMI可望觸底反彈，陸股將隨之表態。<p>日盛中國內需動力基金預定經理人葉岦陞表示，股市通常會領先景氣反映，由於市場認為第三季消費者物價指數（CPI）可由高點回落，PMI製造業指數有機會反轉走揚，預期股市將有機會領先反映。<p>近期干擾陸股的因素包括：6月的經濟數據、地方融資問題、2,800點附近的套牢區，以及歐債危機等，葉岦陞認為，陸股在2,850點年線附近會有較大阻力，需待更明確政策微調，才有持續上漲動力。<p>雖然中國製造業增速放緩，不過近期市場反映卻相當正面，陸股近兩周強彈逾7%。<p>&#28377;豐中國基金經理人陳淑敏表示，由於調控政策效果顯現，加上通膨可望在第二季末到第三季之間觸頂回落，陸股可望逐步脫離通膨籠罩，再現「升」機。<p>彭博資訊統計，前波中國通膨於2004年8月見頂，香港國企股則在2004年4月見底部，股市見底領先通膨見頂時間約三、四個月。<p>若與過去走勢來看，預估股市底部出現時機應在6、7月。陳淑敏認為，近期逢低都是中長線布局中國股市的好時機。<p>元大投信海外投資長吳懷恩表示，目前陸股本益比跟過去五年的平均值相比，仍有折價約20%的空間，在主要亞洲股市算是折價幅度相對大，顯示目前以評價面來看，陸股相對偏低。<p>且中國上證指數目前的位置相對其他亞股或主要國際股市低，在擁有此二低條件下，陸股後續上漲空間值得期待。<p><p>中國CPI若於6月見高點的預期不變，陸股下半年漲勢值得期待。<p>JF大中華基金經理人<FONT COLOR = RED>王浩</FONT>表示，儘管上周中國公布6月PMI數據下滑至50.9，但股市反映平淡，市場已相當反映經濟第二季放緩、進入軟著陸階段，意味下半年CPI可望隨經濟趨緩而改善，預料陸股可望展開築底回升走勢。<p>群益華夏盛世基金經理人葉書弘指出，美國二次量化寬鬆政策順利結束，短期內全球資金仍維持寬鬆狀況，而美元短線轉強機會也不高，資金仍以新興市場作為投資主軸。整體來看，以中國為首的新興亞洲，中國CPI若於6月見高點的預期不變，陸股下半年漲勢值得期待。</p>
+		                        <p>【2011-07-06/經濟日報/B3版/基金世界】</p>
+		                        <p><a href="#" class="t"></a></p>
+		                        </td>
+                    		</tr>
+                  		</table>
+                  	</td>
+            	</tr>
+          	</table>
+          	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+            	<tr>
+              		<td><img src="/images/newdata/images_2007/form_x03.gif" width="726" height="9" /></td>
+            	</tr>
+        	</table>
+        </td>
+      	<td width="243" valign="top">
+		
+			
+
+
+<table width="240" border="0" cellspacing="0" cellpadding="0">
+    <tr><td height="33" background="/images/newdata/images_2007/form_m_a1s.gif">&nbsp;</td></tr>
+    <tr><td background="/images/newdata/images_2007/form_m_a2.gif">
+        <table width="85%" border="0" align="center" cellpadding="0" cellspacing="5" class="small">
+            
+        <tbody>
+            <tr><td  colspan="2" align="left"><img src="/images/newdata/images_2007/icon_04.gif" /><a href="/ndapp/Logout">登出</a></td></tr>
+            
+            <td  colspan="2" align="left"><img src="/images/newdata/images_2007/icon_05.gif" width="13" height="12" /><a href="javascript:MM_openBrWindow('/ndapp/UseDetail','aWin','scrollbars=yes,resizable=yes,width=350,height=200')">我可使用的權限</a></td></tr>
+        <tr>
+                <td align="left" width="8"></td>
+                <td align="left"><span class="text"><font color="#0000ff">我可使用的資料庫有：</font></span><br>
+            <li><span class="text">全文報紙資料庫</span></li><li><span class="text">原版報紙資料庫</span></li></td></tr></tbody>
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="/images/newdata/images_2007/form_m_a3.gif" width="240" height="8" /></td>
+    </tr>
+</table>
+
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr><td height="19"></td></tr>
+        </table>
+
+
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          		<tr><td height="13"></td></tr>
+        	</table>
+        	
+        		<table width="240" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td height="33" align="right" background="/images/newdata/images_2007/form_m_i1.gif">&nbsp;</td>
+	</tr>
+	<tr>
+		<td background="/images/newdata/images_2007/form_m_b2.gif">
+			<table width="85%" border="0" align="center" cellpadding="0" cellspacing="5" class="small">
+				
+				
+								
+				
+                
+				
+                
+                
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/newdata/images_2007/form_m_b3.gif" width="240" height="8" /></td>
+	</tr>
+</table>
+
+        	
+        	
+			
+ 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          		<tr><td height="13"></td></tr>
+		</table>
+			
+			<table width="240" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td height="33" align="right" background="/images/newdata/images_2007/form_m_h1.gif"><a href="#"></a></td>
+	</tr>
+	<tr>
+		<td background="/images/newdata/images_2007/form_m_d2.gif">
+			<table width="90%" border="0" align="center" cellpadding="0" cellspacing="5" class="small">
+            	<tr>
+           			<td align="left">本頁為 <span class="small_red">251/346</span> 筆
+           			
+                   	<li><a href="/ndapp/Story2007?no=252&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6627046&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">修繕松山文創園區 花費上看6億</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=253&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6626111&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">黃珊珊問政 市府怕預算也刪刪</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=254&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6623380&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">22Ｋ的苦…勞資皆有責</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=255&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6621666&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">經濟回暖 大中華基金看俏</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=256&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6617677&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">4地易肇大車事故 
+中正路每10天1件</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=257&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6616360&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">月租宅推日租競標  小心違法</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=258&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6610245&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">本月亞股基金大反攻</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=259&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6607617&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">《榮耀，因為有你！》
+
+熱愛生命的故事</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=260&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6603994&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">菁寮過冬至 包菜包</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=261&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6602315&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">聽不到，說不出 
+「我靠誠懇當業務」</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=262&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6602349&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">直接以人民幣投資大陸 「有開放空間」</a><br /></li>
+                   	
+                   	<li><a href="/ndapp/Story2007?no=263&page=6&udndbid=udnfree&SearchString=pP2vRSuk6bTBPj0yMDEwMDEwMSuk6bTBPD0yMDE0MTIyNSuz%2BKdPPcFwpliz%2BHy4Z8DZpOmz%2BHzBcKZYsd%2Bz%2BHxVcGFwZXI%3D&sharepage=50&select=1&kind=2&article_date=2011-07-06&news_id=6570743&showUserSearch=+%3Cstrong%3E%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B1%7A%A5%48%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E%A4%FD%AF%45%2B%A4%E9%B4%C1%3E%3D20100101%2B%A4%E9%B4%C1%3C%3D20141225%2B%B3%F8%A7%4F%3D%C1%70%A6%58%B3%F8%7C%B8%67%C0%D9%A4%E9%B3%F8%7C%C1%70%A6%58%B1%DF%B3%F8%7CUpaper%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%A6%40%B7%6A%B4%4D%A8%EC%3C%2Ffont%3E+%3Cfont+color%3D%23FF6600+class%3Dtitle04%3E346%3C%2Ffont%3E+%3Cfont+color%3D%23333333+class%3Dtitle03%3E%B5%A7%B8%EA%AE%C6%3C%2Ffont%3E%3C%2Fstrong%3E&firstFatherCateID=">救國團接手運動中心 「沒花錢卻漲價」</a><br /></li>
+                   	
+                  	</td>
+                </tr>
+            </table>
+        </td>
+	</tr>
+	<tr>
+		<td><img src="/images/newdata/images_2007/form_m_d3.gif" width="240" height="8" /></td>
+	</tr>
+</table>
+						
+		</td>
+	</tr>
+  	</tbody>
+</table>
+<table width="996" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tr bgcolor="#dae7f0">
+		<td bgcolor="#E3F1FD">
+			<div align="right"><a href="#"><img src="/images/newdata/images_2007/top.gif" width="41" height="17" border="0" /></a></div>
+		</td>
+    </tr>
+    <tr bgcolor="#7ab6df">
+      	<td height="5"><img height="1" src="/images/newdata/images_2007/spacer.gif" width="11" /></td>
+    </tr>
+    <tr>
+      	<td height="25" align="center" class="small"><a href="http://co.udn.com/CORP/" >關於我們</a> | <a href="http://0-udndata.com.millennium.lib.ntust.edu.tw/faq/authority.html" >圖文轉載授權</a> | <a href="http://0-udndata.com.millennium.lib.ntust.edu.tw/faq/marketing.html" >行銷業務</a> | <a href="http://udn.com/UDN/copyright.htm" >著作權聲明</a> | <a href="http://www.udngroup.com/2c/private.jsp" >隱私權聲明</a> | <a href="https://member.udn.com/member/privacy.htm" >服務條款</a> | <a href="http://0-udndata.com.millennium.lib.ntust.edu.tw/aboutus.html" >udndata介紹</a> | <!-- a href="http://www.udngroup.com/2c/cservice/index.jsp" --> <a href="http://www.udngroup.com/2c/cservice/index.jsp?qfile=dotcom" >客服</a></td>
+    </tr>
+    <tr>
+      	<td height="25" align="center" class="small"><script src='/js/copyright_notice.js' type='text/javascript'></script></td>
+    </tr>
+</table>
+<!-- TEK1012B0002 -->
+<!-- google analytics -->
+<script type="text/javascript">
+   var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20357535-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- google analytics -->
+<!-- TEK1110B0001 -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7390954" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7390954&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</body>
+</html>

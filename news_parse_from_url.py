@@ -14,7 +14,7 @@ def main():
     client = MongoClient('mongodb://localhost:27017/')
     db = client['councilor']
     collection = db['news_url_list']
-    urls = collection.find().skip(179)
+    urls = list(collection.find().skip(280))
 
     br = mechanize.Browser()
     cj = cookielib.LWPCookieJar()
