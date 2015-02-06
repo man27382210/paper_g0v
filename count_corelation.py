@@ -7,6 +7,8 @@ import jieba
 import jieba.posseg as pseg
 from pymongo import MongoClient
 from bson.objectid import ObjectId
+import json
+from pprint import pprint
 
 
 client = MongoClient('mongodb://localhost:27017/')
@@ -21,9 +23,21 @@ def marge(plat):
     result_arr.extend(plat["platforms_nonu"])
     result_arr.extend(plat["platforms_verb"])
     return result_arr
-
+def parseJson():
+    json_data=open('stopword.json')
+    data = json.load(json_data)
+    pprint(data)
+    json_data.close()
+    return data
+def removeOneTerm(array):
+    array_return = []
+    for term in array:
+        if len(term) > 1:
+            array_return.append(term)
+    return array_return
 
 if __name__ == "__main__":
+    stopword = parseJson()
     news_list = collection.find({"cr":u"吳碧珠"})
     news_list = list(news_list)
     plat_list = collection_cr_plat.find({"cr_name":u"吳碧珠"})
@@ -39,9 +53,16 @@ if __name__ == "__main__":
         for news in news_list:
             news_dict = {}
             news_dict["news"] = news
-            # interArr = list(set(news["story_term"]).intersection(set(plat_terms)))
-            interArr = list(set(news["story_term_ckip_all"]).intersection(set(plat_terms)))
-            interArr_tc = list(set(news["story_term_ckip_tc_all"]).intersection(set(plat_terms)))
+            plat_terms = list(set(plat_terms).difference(set(stopword)))
+            story_term_ckip_all = list(set(news["story_term_ckip_all"]).difference(set(stopword)))
+            story_term_ckip_tc_all = list(set(news["story_term_ckip_tc_all"]).difference(set(stopword)))
+
+            plat_terms = removeOneTerm(plat_terms)
+            story_term_ckip_all = removeOneTerm(story_term_ckip_all)
+            story_term_ckip_tc_all = removeOneTerm(story_term_ckip_tc_all)
+            
+            interArr = list(set(story_term_ckip_all).intersection(set(plat_terms)))
+            interArr_tc = list(set(story_term_ckip_tc_all).intersection(set(plat_terms)))
             news_dict["match_term"] = interArr
             news_dict["match_term_tc"] = interArr_tc
             cor_value = 0
