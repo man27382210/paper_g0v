@@ -14,9 +14,9 @@ from pprint import pprint
 client = MongoClient('mongodb://localhost:27017/')
 db = client['councilor']
 collection_cr = db['councilors_terms']
-collection = db['news_url_list_ckip']
+collection = db['news_url_list_ckip_all']
 collection_cr_plat = db['cr_platform_ckip']
-collection_plat_news = db['plat_news_cor_ckip_all']
+collection_plat_news = db['plat_news_cor_all']
 
 def marge(plat):
     result_arr = []
@@ -48,7 +48,7 @@ if __name__ == "__main__":
             news_list = collection.find({"cr":plat["cr_name"]})
             news_list = list(news_list)
             save_dict ={}
-            plat_terms = plat["platforms_term_ckip"]
+            plat_terms = plat["platforms_term"]
             plat_news_cor = 0
             plat_news_cor_tc = 0
             save_dict["plat"]=plat
@@ -57,8 +57,8 @@ if __name__ == "__main__":
                 news_dict = {}
                 news_dict["news"] = news
                 plat_terms = list(set(plat_terms).difference(set(stopword)))
-                story_term_ckip_all = list(set(news["story_term_ckip_all"]).difference(set(stopword)))
-                story_term_ckip_tc_all = list(set(news["story_term_ckip_tc_all"]).difference(set(stopword)))
+                story_term_ckip_all = list(set(news["story_term_all"]).difference(set(stopword)))
+                story_term_ckip_tc_all = list(set(news["story_term_tc_all"]).difference(set(stopword)))
 
                 plat_terms = removeOneTerm(plat_terms)
                 story_term_ckip_all = removeOneTerm(story_term_ckip_all)

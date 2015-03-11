@@ -2,19 +2,19 @@ import os
 import glob
 import json
 from pprint import pprint
+from pymongo import MongoClient
+
+
+client = MongoClient('mongodb://localhost:27017/')
+db = client['councilor']
+collection = db['tncc_bill']
 json_data=open('tncc_bill_path.json')
 data = json.load(json_data)
 for path in data:
 	json_data_in_path=open(path)
 	data_in_path = json.load(json_data_in_path)
-	for key in data_in_path:
-		# print key.encode('utf-8') + " : " +data_in_path[key].encode('utf-8')
-		# print type(data_in_path[key])
-		if type(data_in_path[key]) is list:
-			for key_in_list in data_in_path[key]:
-				# print type(key_in_list)
-				print key_in_list.encode('utf-8')
-	break
+	id = collection.insert(data_in_path)
+	print id
 
 # pprint(data)
 # json_data.close()
