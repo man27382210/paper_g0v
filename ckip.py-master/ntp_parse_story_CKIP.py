@@ -34,8 +34,8 @@ parser = CKIPParser('gcsn', 'rb303147258')
 
 client = MongoClient('mongodb://localhost:27017/')
 db = client['councilor']
-collection = db['news_url_list']
-collection_save = db['news_url_list_ckip_all']
+collection = db['ntp_news_url_list']
+collection_save = db['ntp_news_url_list_ckip_all']
 
 # news_list = collection.find({"cr":u"吳碧珠"})
 news_list = collection.find()
