@@ -16,8 +16,7 @@ def main():
     # collection = db['news_url_list']
     collection = db['ntp_news_url_list']
     # urls = list(collection.find().skip(280))
-    urls = list(collection.find().skip(1395))
-
+    urls = list(collection.find().limit(280))
     br = mechanize.Browser()
     cj = cookielib.LWPCookieJar()
     br.set_cookiejar(cj)
@@ -44,9 +43,9 @@ def main():
             print ""
             sleep(5)
         except Exception, e:
-            print "False id :" + url["_id"]
+            print "False id :" + str(url["_id"])
             f = open("ntp_parse_page_fail.text", a)
-            f.write(url["_id"])
+            f.write(str(url["_id"]))
             f.close()
     print "finish"
     exit(0)
