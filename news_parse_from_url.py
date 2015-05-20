@@ -13,9 +13,7 @@ from time import sleep
 def main():
     client = MongoClient('mongodb://localhost:27017/')
     db = client['councilor']
-    # collection = db['news_url_list']
     collection = db['ntp_news_url_list']
-    # urls = list(collection.find().skip(280))
     urls = list(collection.find().limit(280))
     br = mechanize.Browser()
     cj = cookielib.LWPCookieJar()
