@@ -37,11 +37,11 @@ print("")
 
 
 # Usage example of the CKIPParser class
-# parser = CKIPParser('gcsn', 'rb303147258')
-# result = parser.process('這是一隻可愛的小花貓')
-# if result['status_code'] != '0':
-#     print('Process Failure: ' + result['status'])
+parser = CKIPParser('gcsn', 'rb303147258')
+result = parser.process('這是一隻可愛的小花貓')
+if result['status_code'] != '0':
+    print('Process Failure: ' + result['status'])
 
-# for sentence in result['result']:
-#     for term in traverse(sentence['tree']):
-#         print(term['term'].encode('utf-8'), term['pos'])
+for sentence in result['result']:
+    for term in traverse(sentence['tree']):
+        print(term['term'].encode('utf-8'), term['pos'])

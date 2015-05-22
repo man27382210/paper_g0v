@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "parsePlatNewsNewTermCKIP.py", line 15, in <module>
-    import jieba
-ImportError: No module named jieba

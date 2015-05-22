@@ -115,10 +115,11 @@ class CKIPClient(object):
     def process(self, text):
         tree = self.__build_request_xml(text)
         msg = tostring(tree, encoding=self._ENCODING, xml_declaration=True)
-
+        # msg = tostring(tree, xml_declaration=True)
         result_msg = self.__send_and_recv(msg)
+        print("result_msg")
+        print(result_msg)
         result_tree = fromstring(result_msg)
-
         status = result_tree.find('./processstatus')
         sentences = result_tree.iterfind('./result/sentence')
         result = {
@@ -127,7 +128,6 @@ class CKIPClient(object):
             'result': [self._extract_sentence(sentence.text)
                        for sentence in sentences]
         }
-
         return result
 
 
