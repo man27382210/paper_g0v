@@ -16,7 +16,7 @@ collection = db['ntp_news_url_list']
 collection_save = db['ntp_news_url_list_ckip']
 
 def returnFile():
-    with open("./error_id3.txt") as f:
+    with open("./diff_ids.txt") as f:
         content = f.readlines()
         return content
 def parse():

@@ -21,4 +21,4 @@ diff_lisr = list(set(a).difference(set(b)))
 for id in diff_lisr:
 	f = open("./diff_ids.txt", "a")
 	f.write(str(id)+"\n")
-f.close()	
+f.close()
