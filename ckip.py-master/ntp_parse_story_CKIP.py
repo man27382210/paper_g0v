@@ -38,7 +38,7 @@ collection = db['ntp_news_url_list']
 collection_save = db['ntp_news_url_list_ckip']
 
 def returnFile():
-    with open("./error_id.txt") as f:
+    with open("./diff_ids.txt") as f:
         content = f.readlines()
         return content
 def parse():
@@ -48,7 +48,6 @@ def parse():
     # for news in news_list:
     for news_id in news_list:
         news_id = news_id.split("\n")[0]
-        print(news_id)
         news = collection.find_one({"_id":ObjectId(news_id)})
         d = datetime.datetime.now()
         h = d.hour + d.minute / 60. + d.second / 3600.
@@ -110,7 +109,7 @@ def parse():
                         print(e)
                         print("error with id")
                         print(news["_id"])
-                        f = open("./error_id2.txt", "a")
+                        f = open("./error_id3.txt", "a")
                         f.write(str(news["_id"])+"\n")
                         f.close()
                         sleep(3)
