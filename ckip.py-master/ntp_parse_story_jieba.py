@@ -25,6 +25,7 @@ def parse():
         news_id = news_id.split("\n")[0]
         news = collection.find_one({"_id":ObjectId(news_id)})    
         if "story" in news:
+	    print(news['story'].encode('utf-8'))
             if(len(news['story'])>3):
                 try:
                     dic_news_save = news
